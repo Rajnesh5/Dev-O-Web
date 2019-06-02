@@ -1,1 +1,1 @@
-This is just frontend which I've made during learning phase of my web development.
+This is only frontend of a webpage using intermediate skills of web development.
